@@ -1,0 +1,87 @@
+
+                            //   ///
+                     //////////////
+     ////////     ////////////////
+       ////////  //////// ///////
+        ///// / ////// //////////
+                /// //////////
+                / //////////
+
+      [ MintStealer - Mint-Stealer.sh - t.me/MintOnTop ]
+
+UUID: D308D480-52AA-11E9-A930-6EAD0BC41700
+IP: 79.140.114.43
+HOSTNAME: DESKTOP-HQU7EVQ
+USERNAME: tripl
+OS: Microsoft Windows 10 Pro  64-bit
+FileLocation: C:\Users\tripl\Desktop
+CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+GPU(s): NVIDIA GeForce GT 710, , Intel(R) UHD Graphics 630
+RAM: 3 GB
+DISK: 929 GB
+Applications installed: Explorer Suite III
+Git
+HxD Hex Editor 2.5
+IDA Free 9.1
+WinRAR 7.10 (64-Bit)
+Oracle VirtualBox 7.1.6
+Obsidium x64
+DiagnosticsHub_CollectionService
+Application Verifier x64 External Package (DesktopEditions)
+Microsoft Update Health Tools
+Application Verifier x64 External Package (OnecoreUAP)
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438
+vs_devenx64vmsi
+Python 3.13.2 Add to Path (64-bit)
+Universal CRT Tools x64
+Microsoft System CLR Types for SQL Server 2019
+Windows SDK DirectX x64 Remote
+Python 3.13.2 pip Bootstrap (64-bit)
+Python 3.13.2 Executables (64-bit)
+Python 3.13.2 Core Interpreter (64-bit)
+VS JIT Debugger
+Microsoft Visual Studio Installer
+vs_Graphics_Singletonx64
+Python 3.13.2 Documentation (64-bit)
+Python 3.13.2 Development Libraries (64-bit)
+vs_minshellx64msi
+icecap_collection_x64
+Python 3.13.2 Standard Library (64-bit)
+Python 3.13.2 Tcl/Tk Support (64-bit)
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.42.34438
+Cloudflare WARP
+NVIDIA Graphics Driver 456.71
+NVIDIA GeForce Experience 3.20.3.63
+NVIDIA Optimus Update 38.0.5.0
+NVIDIA Update 38.0.5.0
+NVIDIA SHIELD Streaming
+NVIDIA Install Application
+NVIDIA ABHub
+NVIDIA Backend
+NVIDIA Container
+NVIDIA TelemetryApi helper for NvContainer
+NVIDIA LocalSystem Container
+NVIDIA Message Bus for NvContainer
+NVAPI Monitor plugin for NvContainer
+NVIDIA NetworkService Container
+NVIDIA Session Container
+NVIDIA User Container
+NVIDIA NodeJS
+NVIDIA Watchdog Plugin for NvContainer
+NVIDIA Telemetry Client
+NVIDIA Virtual Host Controller
+Nvidia Share
+NVIDIA ShadowPlay 3.20.3.63
+NVIDIA SHIELD Wireless Controller Driver
+NVIDIA Update Core
+NVIDIA Virtual Audio 4.13.0.0
+Application Verifier x64 External Package (OnecoreUAP)
+Windows App Certification Kit Native Components
+Application Verifier x64 External Package (DesktopEditions)
+vs_communityx64msi
+Update for x64-based Windows Systems (KB5001716)
+vs_minshellinteropx64msi
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438
+Python 3.13.2 Test Suite (64-bit)
+VS Script Debugging Common
+Epic Games Launcher Prerequisites (x64)
